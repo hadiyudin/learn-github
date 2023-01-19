@@ -7,3 +7,5 @@ This is a new line.
 coba aja yah 
 
 This is new line from new branch
+
+This is a new line from second feature
